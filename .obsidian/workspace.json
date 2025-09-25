@@ -11,12 +11,24 @@
             "id": "a528fef95af84702",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2. Resource/Tech/Kintone Web Seminar/file-20250916113803986.png"
+                "file": "3. Archive/Change GitHub.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "file-20250916113803986"
+              "icon": "lucide-file",
+              "title": "Change GitHub"
             }
           }
         ]
@@ -375,6 +387,7 @@
   },
   "active": "a528fef95af84702",
   "lastOpenFiles": [
+    "2. Resource/Tech/Kintone Web Seminar/file-20250916113803986.png",
     "1. Project/COF-C02/Snowpro Core.md",
     "3. Archive/MTG/0922 Corp.md",
     "1. Project/Retool/PoC/미쓰이식품의 디지털 전환을 위한 Retool–Snowflake 연계 PoC 프로젝트.md",
@@ -404,7 +417,6 @@
     "4. Archive/MTG",
     "2. Area/Career/職務経歴書.md",
     "2. Area/Career/Data Engineer 핵심역량.md",
-    "1. Project/CorporateSite/Use-Case Review.md",
     "1. Project/Retool/Study",
     "1. Project/Retool",
     "2. Area/KPI",
