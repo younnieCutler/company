@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "baseFontSize": 15,
+  "textFontFamily": "Franklin Gothic Book,Bauhaus 93",
+  "enabledCssSnippets": [
+    "spacing-fix"
+  ],
+  "monospaceFontFamily": "Consolas,Corbel,Courier",
+  "interfaceFontFamily": "Inter",
+  "theme": "obsidian",
+  "baseFontSizeAction": true
+}
