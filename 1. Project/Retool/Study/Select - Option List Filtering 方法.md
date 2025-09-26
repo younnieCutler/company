@@ -67,3 +67,47 @@ CSVやDBから読み込んだテーブルに対して、**Selectコンポーネ�
 ✅ この方法を使えば、CSVやDBを再取得せずに、**クライアント側だけで直感的にデータを絞り込み**できる。
 
 ---
+
+# 📋 Retool 業務メモ — Selectでフィルタ初期化
+---
+![](Pasted%20image%2020250926143712.png)
+### 実施内容
+- 商品検索用の `select1` に `"Clear"` オプションを追加
+- `table2` のフィルタを一括解除するイベントハンドラを設定
+    
+
+---
+
+### 設定方法
+
+1. **Select1 (商品検索)** に `"Clear"` オプションを追加
+    `{ "label": "Clear", "value": "Clear" }`
+    
+2. **Event handler** を追加
+    
+    - Event: `Change`
+    - Action: `Control component`
+    - Component: `table2 (Table)`
+    - Method: `Clear filter stack`
+    - Only run when:
+        `{{ select1.value === "Clear" }}`
+        
+
+---
+
+### 動作確認
+
+- 通常: `select1` で商品名を選ぶと、その商品だけ表示
+    
+- `"Clear"` を選ぶと:
+    - `Only run when` 条件が true になり
+    - `table2.clearFilterStack()` が発動
+    - → テーブルの全フィルタが解除され、元の全データが表示される
+
+---
+
+### 結果
+
+- **検索とリセットの両方を1つのSelectで実現**できた
+- ユーザーにとって直感的な操作性を確保
+- コードも短く、メンテナンスしやすい構成になった

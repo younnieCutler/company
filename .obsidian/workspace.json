@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a77e97178a69752",
+        "id": "f9c3c442b2326c6a",
         "type": "tabs",
         "children": [
           {
-            "id": "a528fef95af84702",
+            "id": "d48941fc49dda992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Archive/Change GitHub.md",
+                "file": "3. Archive/MTG/0926会議.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Change GitHub"
+              "title": "0926会議"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "d1b445f483bd7647",
@@ -381,21 +382,31 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "chronology:Open Chronology": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "a528fef95af84702",
+  "active": "d48941fc49dda992",
   "lastOpenFiles": [
+    "1. Project/Retool/Study/Select - Option List Filtering 方法.md",
+    "Attachments/Pasted image 20250926143712.png",
+    "1. Project/Retool/PoC/Retool Reference.md",
+    "1. Project/Retool/PoC/Retool-Snowflake_PoC_템플릿_적용_가이드.md",
+    "1. Project/Retool/PoC/미쓰이식품의 디지털 전환을 위한 Retool–Snowflake 연계 PoC 프로젝트.md",
+    "1. Project/Retool/PoC/Retool PoC.md",
+    "3. Archive/MTG/0926会議.md",
+    "1. Project/Retool/Study/Javascript Snipet.md",
+    "1. Project/Retool/Study/UI Component Pattern.md",
+    "Periodic/Daily/2025-09-25.md",
+    "2. Resource/Tech/Kintone Hands-on/Youtube ガイド.md",
+    "Periodic/Yearly/2025.md",
+    "3. Archive/해외취업 성공스토리 수기공모전.md",
+    "Periodic/Daily/2025-09-24.md",
+    "README.md",
+    "3. Archive/Change GitHub.md",
     "2. Resource/Tech/Kintone Web Seminar/file-20250916113803986.png",
     "1. Project/COF-C02/Snowpro Core.md",
-    "3. Archive/MTG/0922 Corp.md",
-    "1. Project/Retool/PoC/미쓰이식품의 디지털 전환을 위한 Retool–Snowflake 연계 PoC 프로젝트.md",
-    "1. Project/Retool/Study/UI Component Pattern.md",
-    "1. Project/Retool/Study/Select - Option List Filtering 方法.md",
     "1. Project/Retool/Study/js 코드 스니펫 한국어판.md",
-    "1. Project/Retool/PoC/Retool Reference.md",
-    "1. Project/Retool/PoC/Retool PoC.md",
     "1. Project/Retool/PoC/KPI.md",
     "4. Archive/해외취업 수기공모전 v2.md",
     "view/tasks view.md",
@@ -404,19 +415,10 @@
     "template/Zettelkasten/fleet note.md",
     "4. Archive/해외취업 성공스토리 수기공모전.md",
     "1. Project/Retool/Study/What is Retool.md",
-    "1. Project/Retool/Study/Hands on guide.md",
-    "1. Project/Retool/Study/Javascript Snipet.md",
-    "Periodic/Daily/2025-09-24.md",
-    "Periodic/Daily/2025-09-22.md",
     "Attachments/Pasted image 20250924142538.png",
     "1. Project/Retool/Study/Hands on guide.md.bak",
-    "1. Project/CorporateSite/SEO 전략.md",
     "Attachments",
-    "Periodic/Daily/2025-09-19.md",
-    "4. Archive/MTG/0922 Corp.md",
     "4. Archive/MTG",
-    "2. Area/Career/職務経歴書.md",
-    "2. Area/Career/Data Engineer 핵심역량.md",
     "1. Project/Retool/Study",
     "1. Project/Retool",
     "2. Area/KPI",
